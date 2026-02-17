@@ -1,0 +1,17 @@
+# Large model files
+*.keras
+*.h5
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv
+env/
+venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data
+Data/
